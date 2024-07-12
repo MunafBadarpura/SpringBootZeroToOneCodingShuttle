@@ -2,46 +2,35 @@ package com.rudradcruze.springbootwebstartw2.controllers;
 
 import com.rudradcruze.springbootwebstartw2.dto.EmployeeDTO;
 import com.rudradcruze.springbootwebstartw2.entities.EmployeeEntity;
-import com.rudradcruze.springbootwebstartw2.repositories.EmployeeRepository;
+import com.rudradcruze.springbootwebstartw2.services.EmployeeService;
 import org.springframework.web.bind.annotation.*;
 
-import java.time.LocalDate;
 import java.util.List;
 
 @RestController
 @RequestMapping(path = "/employees")
 public class EmployeeController {
 
-//    @GetMapping(path = "/getSecretMessage")
-//    public String getMySuperSecretMessage() {
-//        return "Secret message: asgjkas32351!@";
-//    }
+    private final EmployeeService employeeService;
 
-    private final EmployeeRepository employeeRepository;
-
-    public EmployeeController(EmployeeRepository employeeRepository) {
-        this.employeeRepository = employeeRepository;
+    public EmployeeController(EmployeeService employeeService) {
+        this.employeeService = employeeService;
     }
 
     @GetMapping(path = "/{employeeId}")
-    public EmployeeEntity getEmployeeById(@PathVariable(name = "employeeId") Long id) {
-        return employeeRepository.findById(id).orElse(null);
-//        return new EmployeeDTO(id, "Rudra", "francisrudra@gmail.com", 21, LocalDate.of(2024, 1, 2), true);
+    public EmployeeDTO getEmployeeById(@PathVariable(name = "employeeId") Long id) {
+        return employeeService.getEmployeeById(id);
     }
 
     @GetMapping
-    public List<EmployeeEntity> getAllEmployees(@RequestParam(required = false) Integer age,
+    public List<EmployeeDTO> getAllEmployees(@RequestParam(required = false) Integer age,
                                                 @RequestParam(required = false) String sortBy) {
-        return employeeRepository.findAll();
-        //        return "Hi Rudra your age is: " + age + " " + sortBy;
+        return employeeService.getAllEmployees();
     }
 
     @PostMapping
-    public EmployeeEntity saveEmployee(@RequestBody EmployeeEntity employeeEntity) {
-//        employeeDTO.setId(100L);
-//        employeeDTO.setActive(true);
-//        return employeeDTO;
-        return employeeRepository.save(employeeEntity);
+    public EmployeeDTO saveEmployee(@RequestBody EmployeeDTO inputEmployee) {
+        return employeeService.createNewEmployee(inputEmployee);
     }
 
     @PutMapping
