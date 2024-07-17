@@ -1,6 +1,7 @@
 package com.rudradcruze.springbootwebstartw2.controllers;
 
 import com.rudradcruze.springbootwebstartw2.dto.EmployeeDTO;
+import com.rudradcruze.springbootwebstartw2.exception.ResourceNotFoundException;
 import com.rudradcruze.springbootwebstartw2.services.EmployeeService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
@@ -9,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Map;
+import java.util.NoSuchElementException;
 import java.util.Optional;
 
 @RestController
@@ -26,8 +28,13 @@ public class EmployeeController {
         Optional<EmployeeDTO> employeeDTO = employeeService.getEmployeeById(id);
         return employeeDTO
                 .map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+                .orElseThrow(() -> new ResourceNotFoundException("Employee not found with id: " + id)); // NoSuchElementException
     }
+//
+//    @ExceptionHandler(NoSuchElementException.class)
+//    public ResponseEntity<String> handleEmployeeNotFound(NoSuchElementException exception) {
+//        return new ResponseEntity<>("Employee not found", HttpStatus.NOT_FOUND);
+//    }
 
     @GetMapping
     public ResponseEntity<List<EmployeeDTO>> getAllEmployees(@RequestParam(required = false) Integer age,

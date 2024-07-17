@@ -20,7 +20,7 @@ public class EmployeeDTO {
 //    @NotNull(message = "Required field in employee: name") // if not present the field
 //    @NotEmpty(message = "Name of the employee cannot be empty") // if present but null "" empty string
     @NotBlank(message = "Name of the employee cannot be blank")
-    @Size(min = 3, max = 10, message = "Name of the character in name should be in range: [3,10]m")
+    @Size(min = 3, max = 10, message = "Name of the character in name should be in range: [3,10]")
     private String name;
 
     @NotBlank(message = "Email of the employee cannot be blank")
