@@ -16,7 +16,7 @@ Resources & Schedule
 
 ## [Homework](./HomeWork/)
 
-[Click here](./HomeWork/s)
+[Click here](./HomeWork/)
 
 ## Extra Resource
 

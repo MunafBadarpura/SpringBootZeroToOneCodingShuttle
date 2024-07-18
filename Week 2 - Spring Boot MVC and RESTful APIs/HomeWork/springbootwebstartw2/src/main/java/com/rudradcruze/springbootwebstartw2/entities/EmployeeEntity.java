@@ -27,4 +27,11 @@ public class EmployeeEntity {
     private Boolean isActive;
     private double salary;
     private String role;
+    private Integer primeNumber;
+    private LocalDate possibleLeaveDate;
+    private String creditCardNumber;
+    private Float creditCardLimit;
+    @JsonProperty("isManager")
+    private Boolean isManager;
+    private String password;
 }
