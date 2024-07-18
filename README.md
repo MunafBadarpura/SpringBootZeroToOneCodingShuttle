@@ -15,7 +15,9 @@
 | 1.7 | [Maven Build Tool](./Week%201%20-%20Introduction%20To%20Spring%20&%20Spring%20Boot/1_7_Maven.pdf)                                                         | 00:14:09 |
 | 1.8 | [Homework for Introduction To Spring Boot](./Week%201%20-%20Introduction%20To%20Spring%20&%20Spring%20Boot/1_8_Spring_Boot_Intro_Homework.pdf)            | 00:03:00 |
 
-### [Home Work Week 1](./Week%201%20-%20Introduction%20To%20Spring%20&%20Spring%20Boot/HomeWork/)
+[Home Work Week 1](./Week%201%20-%20Introduction%20To%20Spring%20&%20Spring%20Boot/HomeWork/)
+
+---
 
 ## [Week 2 - Spring Boot MVC and RESTful APIs](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/)
 
@@ -33,7 +35,9 @@
 | 2.8 | [Transforming API response in Spring Web MVC](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_8_Transforming_API_response.pdf)                    | 00:13:30 |
 | 2.9 | [Spring Web MVC Homework](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_9_Web_MVC_Homework.pdf)                                                 | 00:02:57 |
 
-### [Home Work Week 2](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/HomeWork/)
+[Home Work Week 2](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/HomeWork/)
+
+---
 
 ## 🚀 About Me
 
