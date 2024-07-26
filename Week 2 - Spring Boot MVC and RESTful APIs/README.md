@@ -4,21 +4,22 @@
 
 Resources & Schedule
 
-| SL  | Name of Lecture                                                                                                                                                 | Duration |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 2.1 | [Introduction To Spring Boot Web MVC, MVC Architecture](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_1_Spring_Boot_Web.pdf)                    | 00:28:26 |
-| 2.2 | [The Presentation Layer, DTO and Controllers](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_2_Presentation_Layer.pdf)                           | 00:37:43 |
-| 2.3 | [The Persistence Layer and JPA Repository](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_3_Presentation_Layer.pdf)                              | 00:34:55 |
-| 2.4 | [The Service Layer, Writing our Business Logic](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_4_Service_Layer.pdf)                              | 00:20:08 |
-| 2.5 | PUT, PATCH and DELETE Mappings in Spring Web MVC                                                                                                                | 00:41:37 |
-| 2.6 | [Input Validation Annotations, Creating Custom Annotation for Validation](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_6_Input_Validation.pdf) | 00:46:12 |
-| 2.7 | [Exception Handling in Spring Boot Web MVC](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_7_Exception_Handling.pdf)                             | 00:29:59 |
-| 2.8 | [Transforming API response in Spring Web MVC](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_8_Transforming_API_response.pdf)                    | 00:13:30 |
-| 2.9 | [Spring Web MVC Homework](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_9_Web_MVC_Homework.pdf)                                                 | 00:02:57 |
+| SL   | Name of Lecture                                                                                                                                                 | Duration |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 2.1  | [Introduction To Spring Boot Web MVC, MVC Architecture](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_1_Spring_Boot_Web.pdf)                    | 00:28:26 |
+| 2.2  | [The Presentation Layer, DTO and Controllers](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_2_Presentation_Layer.pdf)                           | 00:37:43 |
+| 2.3  | [The Persistence Layer and JPA Repository](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_3_Presentation_Layer.pdf)                              | 00:34:55 |
+| 2.4  | [The Service Layer, Writing our Business Logic](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_4_Service_Layer.pdf)                              | 00:20:08 |
+| 2.5  | PUT, PATCH and DELETE Mappings in Spring Web MVC                                                                                                                | 00:41:37 |
+| 2.6  | [Input Validation Annotations, Creating Custom Annotation for Validation](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_6_Input_Validation.pdf) | 00:46:12 |
+| 2.7  | [Exception Handling in Spring Boot Web MVC](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_7_Exception_Handling.pdf)                             | 00:29:59 |
+| 2.8  | [Transforming API response in Spring Web MVC](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_8_Transforming_API_response.pdf)                    | 00:13:30 |
+| 2.9  | [Extra Class: Java 8 Lambda And Stream API](./2_9_stream_API.zip)                                                                                               | 00:29:47 |
+| 2.10 | [Spring Web MVC Homework](./Week%202%20-%20Spring%20Boot%20MVC%20and%20RESTful%20APIs/2_9_Web_MVC_Homework.pdf)                                                 | 00:02:57 |
 
-## [Homework](./HomeWork/)
+## [HomeWork](./HomeWork/)
 
-[Click here](./HomeWork/)
+## [Extra Work - Stream Api](./StreamApi.java)
 
 ## Extra Resource
 
