@@ -4,9 +4,10 @@
 
 Resources & Schedule
 
-| SL  | Name of Lecture                                                                                         | Duration |
-| --- | ------------------------------------------------------------------------------------------------------- | -------- |
-| 2.1 | [3.1 Installing MySQL for Database and DBeaver for Analytics](./3_1_Installing_My_SQL_and_D_Beaver.pdf) | 00:08:07 |
+| SL  | Name of Lecture                                                                                     | Duration |
+| --- | --------------------------------------------------------------------------------------------------- | -------- |
+| 3.1 | [Installing MySQL for Database and DBeaver for Analytics](./3_1_Installing_My_SQL_and_D_Beaver.pdf) | 00:08:07 |
+| 3.2 | [Hibernate ORM, JPA, Entities and Tables in Spring Data Jpa](./3_2_Hibernate_and_JPA.pdf)           | 00:39:09 |
 
 ## 🚀 About Me
 
