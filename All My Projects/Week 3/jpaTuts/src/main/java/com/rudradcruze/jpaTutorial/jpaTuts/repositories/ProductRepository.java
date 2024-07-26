@@ -1,6 +1,8 @@
 package com.rudradcruze.jpaTutorial.jpaTuts.repositories;
 
 import com.rudradcruze.jpaTutorial.jpaTuts.entities.Product;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
@@ -13,7 +15,15 @@ import java.util.Optional;
 @Repository
 public interface ProductRepository extends JpaRepository<Product, Long> {
 
+    List<Product> findBy(Sort sort);
+
+//    List<Product> findByTitle(String title);
+
     List<Product> findByTitle(String title);
+
+    List<Product> findByTitle(String title, Pageable pageable);
+
+    List<Product> findByTitleContainingIgnoreCase(String title, Pageable pageable);
 
     List<Product> findByCreatedAtAfter(LocalDateTime createdAt);
 

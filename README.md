@@ -51,6 +51,7 @@
 | 3.1 | [Installing MySQL for Database and DBeaver for Analytics](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_1_Installing_My_SQL_and_D_Beaver.pdf) | 00:08:07 |
 | 3.2 | [Hibernate ORM, JPA, Entities and Tables in Spring Data Jpa](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_2_Hibernate_and_JPA.pdf)           | 00:39:09 |
 | 3.3 | [Spring Data Jpa Interfaces and Dynamic Query Methods](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_3_Spring_Data_JPA.pdf)                   | 00:50:51 |
+| 3.4 | [Sorting and Pagination in Spring Data Jpa](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_4_Sorting_and_Pagination.pdf)                       | 00:38:13 |
 
 ---
 
