@@ -53,6 +53,7 @@
 | 3.3 | [Spring Data Jpa Interfaces and Dynamic Query Methods](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_3_Spring_Data_JPA.pdf)                   | 00:50:51 |
 | 3.4 | [Sorting and Pagination in Spring Data Jpa](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_4_Sorting_and_Pagination.pdf)                       | 00:38:13 |
 | 3.5 | [Spring Data Jpa Mappings Part 1 - One To One Mapping](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_5_Mappings_Part_1.pdf)                   | 00:49:58 |
+| 3.6 | [Spring Data Jpa Mapping Part 2 - One To Many, Many To Many Mapping](./Week%203%20-%20Hibernate%20and%20Spring%20Boot%20Data%20JPA/3_6_Mappings_Part_2.pdf)     | 00:45:41 |
 
 ---
 

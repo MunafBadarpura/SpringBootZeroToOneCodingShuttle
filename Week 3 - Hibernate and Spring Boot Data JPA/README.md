@@ -11,6 +11,7 @@ Resources & Schedule
 | 3.3 | [Spring Data Jpa Interfaces and Dynamic Query Methods](./3_3_Spring_Data_JPA.pdf)                   | 00:50:51 |
 | 3.4 | [Sorting and Pagination in Spring Data Jpa](./3_4_Sorting_and_Pagination.pdf)                       | 00:38:13 |
 | 3.5 | [Spring Data Jpa Mappings Part 1 - One To One Mapping](./3_5_Mappings_Part_1.pdf)                   | 00:49:58 |
+| 3.6 | [Spring Data Jpa Mapping Part 2 - One To Many, Many To Many Mapping](./3_6_Mappings_Part_2.pdf)     | 00:45:41 |
 
 ## 🚀 About Me
 
