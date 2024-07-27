@@ -10,6 +10,7 @@ Resources & Schedule
 | 3.2 | [Hibernate ORM, JPA, Entities and Tables in Spring Data Jpa](./3_2_Hibernate_and_JPA.pdf)           | 00:39:09 |
 | 3.3 | [Spring Data Jpa Interfaces and Dynamic Query Methods](./3_3_Spring_Data_JPA.pdf)                   | 00:50:51 |
 | 3.4 | [Sorting and Pagination in Spring Data Jpa](./3_4_Sorting_and_Pagination.pdf)                       | 00:38:13 |
+| 3.5 | [Spring Data Jpa Mappings Part 1 - One To One Mapping](./3_5_Mappings_Part_1.pdf)                   | 00:49:58 |
 
 ## 🚀 About Me
 
