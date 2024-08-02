@@ -7,6 +7,7 @@ Resources & Schedule
 | SL  | Name of Lecture                                                               | Duration |
 | --- | ----------------------------------------------------------------------------- | -------- |
 | 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA | 00:30:00 |
+| 4.2 | [Spring Boot DevTools](./4_2_Devtools.pdf)                                    | 00:14:00 |
 
 ## 🚀 About Me
 
