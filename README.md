@@ -66,9 +66,10 @@
 
 | SL  | Name of Lecture                                                                                                                                           | Duration |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA                                                                             | 00:30:00 |
-| 4.2 | [Spring Boot DevTools](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_2_Devtools.pdf)                                                   | 00:14:00 |
-| 4.3 | [Spring Boot Basic Auditing and Advanced Auditing with Hibernate Envers](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_3_Auditing.pdf) | 00:45:00 |
+| 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA                                                                             | 00:30:11 |
+| 4.2 | [Spring Boot DevTools](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_2_Devtools.pdf)                                                   | 00:14:53 |
+| 4.3 | [Spring Boot Basic Auditing and Advanced Auditing with Hibernate Envers](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_3_Auditing.pdf) | 00:45:26 |
+| 4.4 | [4.4 Making Third party API calls with RestClient](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_4_Rest_Client.pdf)                    | 00:45:53 |
 
 ---
 
