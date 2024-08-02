@@ -4,10 +4,11 @@
 
 Resources & Schedule
 
-| SL  | Name of Lecture                                                               | Duration |
-| --- | ----------------------------------------------------------------------------- | -------- |
-| 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA | 00:30:00 |
-| 4.2 | [Spring Boot DevTools](./4_2_Devtools.pdf)                                    | 00:14:00 |
+| SL   | Name of Lecture                                                                              | Duration |
+| ---- | -------------------------------------------------------------------------------------------- | -------- |
+| 4.1  | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA                | 00:30:00 |
+| 4.2  | [Spring Boot DevTools](./4_2_Devtools.pdf)                                                   | 00:14:00 |
+| 4.23 | [Spring Boot Basic Auditing and Advanced Auditing with Hibernate Envers](./4_3_Auditing.pdf) | 00:45:00 |
 
 ## 🚀 About Me
 
