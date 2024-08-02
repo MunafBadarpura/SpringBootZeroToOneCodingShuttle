@@ -60,6 +60,16 @@
 
 ---
 
+## [Week 4 - Production ready Spring Boot Features](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/)
+
+### Resources & Schedule
+
+| SL  | Name of Lecture                                                               | Duration |
+| --- | ----------------------------------------------------------------------------- | -------- |
+| 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA | 00:30:00 |
+
+---
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
