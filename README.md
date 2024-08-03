@@ -72,6 +72,7 @@
 | 4.4 | [Making Third party API calls with RestClient](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_4_Rest_Client.pdf)                        | 00:45:53 |
 | 4.5 | [Logging in Spring Boot Applications](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_5_Logging.pdf)                                     | 00:43:30 |
 | 4.6 | [Spring Boot Actuator](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_6_Spring_Boot_Actuator.pdf)                                       | 00:17:59 |
+| 4.7 | [OpenAPI and Swagger](./Week%204%20-%20Production%20ready%20Spring%20Boot%20Features/4_7_Open_API_and_Swagger.pdf)                                        | 00:08:54 |
 
 ---
 
