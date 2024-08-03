@@ -11,6 +11,7 @@ Resources & Schedule
 | 4.3 | [Spring Boot Basic Auditing and Advanced Auditing with Hibernate Envers](./4_3_Auditing.pdf) | 00:45:26 |
 | 4.4 | [Making Third party API calls with RestClient](./4_4_Rest_Client.pdf)                        | 00:45:53 |
 | 4.5 | [Logging in Spring Boot Applications](./4_5_Logging.pdf)                                     | 00:43:30 |
+| 4.6 | [Spring Boot Actuator](./4_6_Spring_Boot_Actuator.pdf)                                       | 00:17:59 |
 
 ## 🚀 About Me
 
