@@ -9,7 +9,8 @@ Resources & Schedule
 | 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA                | 00:30:11 |
 | 4.2 | [Spring Boot DevTools](./4_2_Devtools.pdf)                                                   | 00:14:53 |
 | 4.3 | [Spring Boot Basic Auditing and Advanced Auditing with Hibernate Envers](./4_3_Auditing.pdf) | 00:45:26 |
-| 4.4 | [4.4 Making Third party API calls with RestClient](./4_4_Rest_Client.pdf)                    | 00:45:53 |
+| 4.4 | [Making Third party API calls with RestClient](./4_4_Rest_Client.pdf)                        | 00:45:53 |
+| 4.5 | [Logging in Spring Boot Applications](./4_5_Logging.pdf)                                     | 00:43:30 |
 
 ## 🚀 About Me
 
