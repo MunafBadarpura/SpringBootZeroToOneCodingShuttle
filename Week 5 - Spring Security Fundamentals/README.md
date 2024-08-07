@@ -4,10 +4,11 @@
 
 Resources & Schedule
 
-| SL  | Name of Lecture                                                                              | Duration |
-| --- | -------------------------------------------------------------------------------------------- | -------- |
-| 5.1 | [Security Attacks like CSRF, XSS, SQL Injection](./5_1_Security_Attacks.pdf)                 | 00:25:14 |
-| 5.2 | [Internal Working of Spring Security, Part 1](./5_2_Internal_Working_of_Spring_Security.pdf) | 00:29:51 |
+| SL  | Name of Lecture                                                                                           | Duration |
+| --- | --------------------------------------------------------------------------------------------------------- | -------- |
+| 5.1 | [Security Attacks like CSRF, XSS, SQL Injection](./5_1_Security_Attacks.pdf)                              | 00:25:14 |
+| 5.2 | [Internal Working of Spring Security, Part 1](./5_2_Internal_Working_of_Spring_Security.pdf)              | 00:29:51 |
+| 5.3 | [Internal Working of Spring Security, Part 2 - Core Components](./5_3_Core_Spring_Security_Component.pdf) | 00:30:36 |
 
 ## 🚀 About Me
 
