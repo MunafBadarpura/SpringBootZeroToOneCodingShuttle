@@ -79,13 +79,14 @@
 
 ---
 
-## [Week 5 - Spring Boot Security](./Week%205%20-%20Spring%20Boot%20Security/)
+## [Week 5 - Spring Boot Security](./Week%205%20-%20Spring%20Security%20Fundamentals/)
 
 ### Resources & Schedule
 
-| SL  | Name of Lecture                                                                                                      | Duration |
-| --- | -------------------------------------------------------------------------------------------------------------------- | -------- |
-| 5.1 | [Security Attacks like CSRF, XSS, SQL Injection](./Week%205%20-%20Spring%20Boot%20Security/5_1_Security_Attacks.pdf) | 00:25:14 |
+| SL  | Name of Lecture                                                                                                                              | Duration |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 5.1 | [Security Attacks like CSRF, XSS, SQL Injection](./Week%205%20-%20Spring%20Security%20Fundamentals/5_1_Security_Attacks.pdf)                 | 00:25:14 |
+| 5.2 | [Internal Working of Spring Security, Part 1](./Week%205%20-%20Spring%20Security%20Fundamentals/5_2_Internal_Working_of_Spring_Security.pdf) | 00:29:51 |
 
 ---
 
