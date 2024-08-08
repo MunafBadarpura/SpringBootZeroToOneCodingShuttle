@@ -83,11 +83,12 @@
 
 ### Resources & Schedule
 
-| SL  | Name of Lecture                                                                                                                                           | Duration |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 5.1 | [Security Attacks like CSRF, XSS, SQL Injection](./Week%205%20-%20Spring%20Security%20Fundamentals/5_1_Security_Attacks.pdf)                              | 00:25:14 |
-| 5.2 | [Internal Working of Spring Security, Part 1](./Week%205%20-%20Spring%20Security%20Fundamentals/5_2_Internal_Working_of_Spring_Security.pdf)              | 00:29:51 |
-| 5.3 | [Internal Working of Spring Security, Part 2 - Core Components](./Week%205%20-%20Spring%20Security%20Fundamentals/5_3_Core_Spring_Security_Component.pdf) | 00:30:36 |
+| SL  | Name of Lecture                                                                                                                                               | Duration |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 5.1 | [Security Attacks like CSRF, XSS, SQL Injection](./Week%205%20-%20Spring%20Security%20Fundamentals/5_1_Security_Attacks.pdf)                                  | 00:25:14 |
+| 5.2 | [Internal Working of Spring Security, Part 1](./Week%205%20-%20Spring%20Security%20Fundamentals/5_2_Internal_Working_of_Spring_Security.pdf)                  | 00:29:51 |
+| 5.3 | [Internal Working of Spring Security, Part 2 - Core Components](./Week%205%20-%20Spring%20Security%20Fundamentals/5_3_Core_Spring_Security_Component.pdf)     | 00:30:36 |
+| 5.4 | [Spring Security Web Config - SecurityFilterChain Configuration](./Week%205%20-%20Spring%20Security%20Fundamentals/5_4_Configuring_Security_Filter_Chain.pdf) | 00:29:05 |
 
 ---
 
