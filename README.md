@@ -92,6 +92,7 @@
 | 5.5 | [Understanding JWT, Creation and Verification of JWT Tokens](./Week%205%20-%20Spring%20Security%20Fundamentals/5_5_Understanding_JWT.pdf)                     |
 | 5.6 | [Sign Up and Login using JWT](./Week%205%20-%20Spring%20Security%20Fundamentals/5_6_Signup_and_Login_using_JWT.pdf)                                           |
 | 5.7 | [Authenticating Request using JWT](./Week%205%20-%20Spring%20Security%20Fundamentals/5_6_Signup_and_Login_using_JWT.pdf)                                      |
+| 5.8 | [Spring Security Exception Handling](./Week%205%20-%20Spring%20Security%20Fundamentals/5_8_Spring_Security_Exception_Handling.pdf)                            |
 
 ---
 

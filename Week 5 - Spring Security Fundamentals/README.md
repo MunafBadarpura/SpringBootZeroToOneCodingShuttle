@@ -13,6 +13,7 @@ Resources & Schedule
 | 5.5 | [Spring Security Web Config - Authentication Manager](./5_5_Understanding_JWT.pdf)                            |
 | 5.6 | [Sign Up and Login using JWT](./5_6_Signup_and_Login_using_JWT.pdf)                                           |
 | 5.7 | [Authenticating Request using JWT](./5_6_Signup_and_Login_using_JWT.pdf)                                      |
+| 5.8 | [Spring Security Exception Handling](./5_8_Spring_Security_Exception_Handling.pdf)                            |
 
 ## 🚀 About Me
 
