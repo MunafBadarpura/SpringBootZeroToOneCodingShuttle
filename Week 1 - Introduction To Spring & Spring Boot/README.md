@@ -3,16 +3,16 @@
 ## Week 1 - Introduction To Spring & Spring Boot
 
 Resources & Schedule
-| SL | Name of Lecture | Duration |
-| --- | -------------------------------------------------- | -------- |
-| 1.1 | [Introduction To Spring Framework and IOC Container](./1_1_Introduction_To_Spring_Boot.pdf) | 00:14:58 |
-| 1.2 | [Setting Up A Spring Boot Project](./1_2%20Setting%20Up%20A%20Spring%20Boot%20Project.txt) | 00:14:07 |
-| 1.3 | [Beans](./1_3_Beans.pdf) | 00:35:09 |
-| 1.4 | [Dependency Injection](./1_4_Dependency_Injection.pdf) | 00:27:20 |
-| 1.5 | [Spring Boot vs Spring Framework, A Comparison](./1_5_Spring_VS_Spring_Boot.pdf) | 00:11:02 |
-| 1.6 | [AutoConfiguration and Spring Boot Internal Flow](./1_6_Auto_Configuration.pdf) | 00:14:09 |
-| 1.7 | [Maven Build Tool](./1_7_Maven.pdf) | 00:14:09 |
-| 1.8 | [Homework for Introduction To Spring Boot](./1_8_Spring_Boot_Intro_Homework.pdf) | 00:03:00 |
+| SL | Name of Lecture |
+| --- | -------------------------------------------------- |
+| 1.1 | [Introduction To Spring Framework and IOC Container](./1_1_Introduction_To_Spring_Boot.pdf) |
+| 1.2 | [Setting Up A Spring Boot Project](./1_2%20Setting%20Up%20A%20Spring%20Boot%20Project.txt) |
+| 1.3 | [Beans](./1_3_Beans.pdf) |
+| 1.4 | [Dependency Injection](./1_4_Dependency_Injection.pdf) |
+| 1.5 | [Spring Boot vs Spring Framework, A Comparison](./1_5_Spring_VS_Spring_Boot.pdf) |
+| 1.6 | [AutoConfiguration and Spring Boot Internal Flow](./1_6_Auto_Configuration.pdf) |
+| 1.7 | [Maven Build Tool](./1_7_Maven.pdf) |
+| 1.8 | [Homework for Introduction To Spring Boot](./1_8_Spring_Boot_Intro_Homework.pdf) |
 
 ## [Homework](./HomeWork/)
 
