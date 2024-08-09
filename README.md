@@ -90,6 +90,7 @@
 | 5.3 | [Internal Working of Spring Security, Part 2 - Core Components](./Week%205%20-%20Spring%20Security%20Fundamentals/5_3_Core_Spring_Security_Component.pdf)     | 00:30:36 |
 | 5.4 | [Spring Security Web Config - SecurityFilterChain Configuration](./Week%205%20-%20Spring%20Security%20Fundamentals/5_4_Configuring_Security_Filter_Chain.pdf) | 00:29:05 |
 | 5.5 | [Understanding JWT, Creation and Verification of JWT Tokens](./Week%205%20-%20Spring%20Security%20Fundamentals/5_5_Understanding_JWT.pdf)                     | 00:37:00 |
+| 5.6 | [Sign Up and Login using JWT](./Week%205%20-%20Spring%20Security%20Fundamentals/5_6_Signup_and_Login_using_JWT.pdf)                                           | 00:32:02 |
 
 ---
 
