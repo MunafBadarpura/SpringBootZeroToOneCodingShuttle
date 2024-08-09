@@ -91,6 +91,7 @@
 | 5.4 | [Spring Security Web Config - SecurityFilterChain Configuration](./Week%205%20-%20Spring%20Security%20Fundamentals/5_4_Configuring_Security_Filter_Chain.pdf) | 00:29:05 |
 | 5.5 | [Understanding JWT, Creation and Verification of JWT Tokens](./Week%205%20-%20Spring%20Security%20Fundamentals/5_5_Understanding_JWT.pdf)                     | 00:37:00 |
 | 5.6 | [Sign Up and Login using JWT](./Week%205%20-%20Spring%20Security%20Fundamentals/5_6_Signup_and_Login_using_JWT.pdf)                                           | 00:32:02 |
+| 5.7 | [Authenticating Request using JWT](./Week%205%20-%20Spring%20Security%20Fundamentals/5_6_Signup_and_Login_using_JWT.pdf)                                      | 00:32:51 |
 
 ---
 

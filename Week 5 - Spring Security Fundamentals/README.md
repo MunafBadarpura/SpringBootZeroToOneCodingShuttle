@@ -12,6 +12,7 @@ Resources & Schedule
 | 5.4 | [Spring Security Web Config - SecurityFilterChain Configuration](./5_4_Configuring_Security_Filter_Chain.pdf) | 00:29:05 |
 | 5.5 | [Spring Security Web Config - Authentication Manager](./5_5_Understanding_JWT.pdf)                            | 00:29:05 |
 | 5.6 | [Sign Up and Login using JWT](./5_6_Signup_and_Login_using_JWT.pdf)                                           | 00:32:02 |
+| 5.7 | [Authenticating Request using JWT](./5_6_Signup_and_Login_using_JWT.pdf)                                      | 00:32:51 |
 
 ## 🚀 About Me
 
