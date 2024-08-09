@@ -4,16 +4,16 @@
 
 Resources & Schedule
 
-| SL  | Name of Lecture                                                                              | Duration |
-| --- | -------------------------------------------------------------------------------------------- | -------- |
-| 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA                | 00:30:11 |
-| 4.2 | [Spring Boot DevTools](./4_2_Devtools.pdf)                                                   | 00:14:53 |
-| 4.3 | [Spring Boot Basic Auditing and Advanced Auditing with Hibernate Envers](./4_3_Auditing.pdf) | 00:45:26 |
-| 4.4 | [Making Third party API calls with RestClient](./4_4_Rest_Client.pdf)                        | 00:45:53 |
-| 4.5 | [Logging in Spring Boot Applications](./4_5_Logging.pdf)                                     | 00:43:30 |
-| 4.6 | [Spring Boot Actuator](./4_6_Spring_Boot_Actuator.pdf)                                       | 00:17:59 |
-| 4.7 | [OpenAPI and Swagger](./4_7_Open_API_and_Swagger.pdf)                                        | 00:08:54 |
-| 4.8 | [Production-ready features HomeWork](./4_8_Production_Ready_features_Homework.pdf)           | 00:03:21 |
+| SL  | Name of Lecture                                                                              |
+| --- | -------------------------------------------------------------------------------------------- |
+| 4.1 | Setting up a Spring Boot Project with Spring Boot Web MVC and Spring Data JPA                |
+| 4.2 | [Spring Boot DevTools](./4_2_Devtools.pdf)                                                   |
+| 4.3 | [Spring Boot Basic Auditing and Advanced Auditing with Hibernate Envers](./4_3_Auditing.pdf) |
+| 4.4 | [Making Third party API calls with RestClient](./4_4_Rest_Client.pdf)                        |
+| 4.5 | [Logging in Spring Boot Applications](./4_5_Logging.pdf)                                     |
+| 4.6 | [Spring Boot Actuator](./4_6_Spring_Boot_Actuator.pdf)                                       |
+| 4.7 | [OpenAPI and Swagger](./4_7_Open_API_and_Swagger.pdf)                                        |
+| 4.8 | [Production-ready features HomeWork](./4_8_Production_Ready_features_Homework.pdf)           |
 
 ## [HomeWork Project Files](./HomeWork/README.md)
 
