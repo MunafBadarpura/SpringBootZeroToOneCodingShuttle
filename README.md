@@ -1,5 +1,7 @@
 # Java Spring Boot 0 to 1 | Coding Shuttle
 
+## [All Projects List](./All%20My%20Projects/)
+
 ## [Week 1 - Introduction To Spring & Spring Boot](./Week%201%20-%20Introduction%20To%20Spring%20&%20Spring%20Boot/)
 
 ### Resources & Schedule
@@ -93,6 +95,9 @@
 | 5.6 | [Sign Up and Login using JWT](./Week%205%20-%20Spring%20Security%20Fundamentals/5_6_Signup_and_Login_using_JWT.pdf)                                           |
 | 5.7 | [Authenticating Request using JWT](./Week%205%20-%20Spring%20Security%20Fundamentals/5_6_Signup_and_Login_using_JWT.pdf)                                      |
 | 5.8 | [Spring Security Exception Handling](./Week%205%20-%20Spring%20Security%20Fundamentals/5_8_Spring_Security_Exception_Handling.pdf)                            |
+| 5.9 | [Home Work For Spring Security Part 1](./Week%205%20-%20Spring%20Security%20Fundamentals/5_9_Homework_for_Spring_Security_Part_1.pdf)                         |
+
+[Home Work Week 5](./Week%205%20-%20Spring%20Security%20Fundamentals/HomeWork/README.md)
 
 ---
 

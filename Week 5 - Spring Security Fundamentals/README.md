@@ -14,6 +14,9 @@ Resources & Schedule
 | 5.6 | [Sign Up and Login using JWT](./5_6_Signup_and_Login_using_JWT.pdf)                                           |
 | 5.7 | [Authenticating Request using JWT](./5_6_Signup_and_Login_using_JWT.pdf)                                      |
 | 5.8 | [Spring Security Exception Handling](./5_8_Spring_Security_Exception_Handling.pdf)                            |
+| 5.9 | [Home Work For Spring Security Part 1](./5_9_Homework_for_Spring_Security_Part_1.pdf)                         |
+
+## [Home Work 5](./HomeWork/)
 
 ## 🚀 About Me
 
