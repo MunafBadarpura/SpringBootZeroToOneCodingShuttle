@@ -1,4 +1,4 @@
-# Java Spring Boot 0 to 1 | Coding Shuttle
+# Java Spring Boot 0 to 1 | Coding Shuttle 
 
 ## [All Projects List](./All%20My%20Projects/)
 
